@@ -1,0 +1,12 @@
+		#main {
+			display: flex;
+			justify-content: space-around;
+			padding: 60px;
+		}
+		#date {
+			color:blue;
+		}
+		
+		#time {
+			color:green;
+		}
